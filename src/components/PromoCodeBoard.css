@@ -1,0 +1,12 @@
+.promo-card-board {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 30px 10px;
+    padding: 2px 5px;
+    height: 100vh;
+    flex-flow: wrap;
+    flex: 0 1 50%;
+}
