@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/promo-code/static/css/main.ed8b54c6.css",
+    "main.js": "/promo-code/static/js/main.2bd29bc8.js",
+    "static/js/787.7208155d.chunk.js": "/promo-code/static/js/787.7208155d.chunk.js",
+    "index.html": "/promo-code/index.html",
+    "main.ed8b54c6.css.map": "/promo-code/static/css/main.ed8b54c6.css.map",
+    "main.2bd29bc8.js.map": "/promo-code/static/js/main.2bd29bc8.js.map",
+    "787.7208155d.chunk.js.map": "/promo-code/static/js/787.7208155d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed8b54c6.css",
+    "static/js/main.2bd29bc8.js"
+  ]
+}
